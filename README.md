@@ -41,9 +41,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trinhhao42&theme=radical" alt="Hao's Contribution Activity" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-lambda.vercel.app/api?username=Trinhhao42&theme=radical" alt="Hao's Contribution Calendar" />
-</p>
 
 ---
 
