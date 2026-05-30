@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Trinh Quang Toan Hao
+### 🚀 Final Year Software Engineering Student at Industrial University of Ho Chi Minh City (IUH)
+---
 
-<!--
-**TrinhHao42/Trinhhao42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
+- 🎓 **Education**: Final-year Software Engineering student focused on building scalable backend solutions.
+- 💻 **Core Focus**: Backend Architecture, System Design (Monolith to Microkernel/Microservices), and Cloud Infrastructure.
+- 🛠️ **Current Ventures**: Designing a custom Platform-as-a-Service (PaaS) engine and exploring dynamic plugin architectures for backend systems.
+- 🎯 **Goal**: Delivering robust, high-performance APIs and automated deployment workflows.
+- 📄 **Resume**: Check out my professional journey **[View My CV 🚀](https://drive.google.com/file/d/1z4A13byZgxoxtLXo-cmb63mwQkCe-t8F/view?usp=sharing)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Backend Frameworks** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+## 📊 GitHub Metrics & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trinhhao42&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Hao's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trinhhao42&layout=compact&theme=radical&langs_count=6" alt="Hao's Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinhhao42&theme=radical" alt="Hao's GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/trịnh-quang-toàn-hảo" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Trịnh Quang Toàn Hảo LinkedIn" />
+  </a>
+  <a href="https://github.com/Trinhhao42" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Trinhhao42 GitHub" />
+  </a>
+</p>
+
+<p align="center">⭐️ From Trinhhao42 with 💻</p>
