@@ -7,7 +7,7 @@
 - 💻 **Core Focus**: Backend Architecture, System Design (Monolith to Microkernel/Microservices), and Cloud Infrastructure.
 - 🛠️ **Current Ventures**: Designing a custom Platform-as-a-Service (PaaS) engine and exploring dynamic plugin architectures for backend systems.
 - 🎯 **Goal**: Delivering robust, high-performance APIs and automated deployment workflows.
-- 📄 **Resume**: Check out my professional journey **[View My CV 🚀](https://drive.google.com/file/d/1z4A13byZgxoxtLXo-cmb63mwQkCe-t8F/view?usp=sharing)**
+- 📄 **Resume**: Check out my professional journey **[View My CV 🚀](https://drive.google.com/file/d/1RhHbVcK3msoFCovO8XORTpDP2-YjPnhX/view?usp=sharing)**
 
 ---
 
