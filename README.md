@@ -43,15 +43,4 @@
 
 
 ---
-
-## 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/trịnh-quang-toàn-hảo" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Trịnh Quang Toàn Hảo LinkedIn" />
-  </a>
-  <a href="https://github.com/Trinhhao42" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Trinhhao42 GitHub" />
-  </a>
-</p>
-
 <p align="center">⭐️ From Trinhhao42 with 💻</p>
